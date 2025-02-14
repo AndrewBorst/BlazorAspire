@@ -1,5 +1,3 @@
-using Swashbuckle.AspNetCore.SwaggerUI;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add service defaults & Aspire client integrations.
